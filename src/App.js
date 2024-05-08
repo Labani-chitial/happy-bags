@@ -26,6 +26,31 @@ import bag21 from "./Components/images/bag21.jpeg"
 import bag22 from "./Components/images/bag22.jpeg"
 import bag23 from "./Components/images/bag23.jpeg"
 import bag24 from "./Components/images/bag24.jpeg"
+import baga from "./Components/images/baga.jpeg"
+import bagb from "./Components/images/bagb.jpeg"
+import bagc from "./Components/images/bagc.jpeg"
+import bagd from "./Components/images/bagd.jpeg"
+import bage from "./Components/images/bage.jpeg"
+import bagf from "./Components/images/bagf.jpeg"
+import bagg from "./Components/images/bagg.jpeg"
+import bagh from "./Components/images/bagh.jpeg"
+import bagi from "./Components/images/bagi.jpeg"
+import bagj from "./Components/images/bagj.jpeg"
+import bagk from "./Components/images/bagk.jpeg"
+import bagl from "./Components/images/bagl.jpeg"
+import bagm from "./Components/images/bagm.jpeg"
+import bagn from "./Components/images/bagn.jpeg"
+import bago from "./Components/images/bago.jpeg"
+import bagp from "./Components/images/bagp.jpeg"
+import bagq from "./Components/images/bagq.jpeg"
+import bagr from "./Components/images/bagr.jpeg"
+import bags from "./Components/images/bags.jpeg"
+import bagt from "./Components/images/bagt.jpeg"
+import bagu from "./Components/images/bagu.jpeg"
+import bagv from "./Components/images/bagv.jpeg"
+import bagw from "./Components/images/bagw.jpeg"
+import bagx from "./Components/images/bagx.jpeg"
+
 
 import ProductItem from "./Components/deal-item";
 
@@ -84,7 +109,119 @@ const dealslist = [
     imageUrl: bag8,
     name: "Chumbak Boho ladies bag",
     brand: "Chumbak Boho",
+    price: 799,
+  },
+  {
+    id: 9,
+    imageUrl: baga,
+    name: "Fastrack ladies bag",
+    brand: "Fastrack",
+    price: 899,
+  },
+  {
+    id: 10,
+    imageUrl: bagb,
+    name: "Caprese ladies bag",
+    brand: "Caprese",
+    price: 1399,
+  },
+  {
+    id: 11,
+    imageUrl: bagc,
+    name: "Lavie ladies bag",
+    brand: "Lavie",
     price: 999,
+  },
+  {
+    id: 12,
+    imageUrl: bagd,
+    name: "Zouk ladies bag",
+    brand: "Zouk",
+    price: 999,
+  },
+  {
+    id: 13,
+    imageUrl: bage,
+    name: "Lino Perros ladies bag",
+    brand: "Lino Perros",
+    price: 999,
+  },
+  {
+    id: 14,
+    imageUrl: bagf,
+    name: "Da Milano ladies bag",
+    brand: "Da Milano",
+    price: 2499,
+  },
+  {
+    id: 15,
+    imageUrl: bagg,
+    name: "Dior ladies bag",
+    brand: "Dior",
+    price: 4999,
+  },
+  {
+    id: 16,
+    imageUrl: bagh,
+    name: "Chumbak Boho ladies bag",
+    brand: "Chumbak Boho",
+    price: 999,
+  },
+  {
+    id: 15,
+    imageUrl: bagi,
+    name: "Dior ladies bag",
+    brand: "Dior",
+    price: 899,
+  },
+  {
+    id: 16,
+    imageUrl: bagj,
+    name: "Caprese ladies bag",
+    brand: "Caprese",
+    price: 1299,
+  },
+  {
+    id: 17,
+    imageUrl: bagk,
+    name: "Lavie ladies bag",
+    brand: "Lavie",
+    price: 999,
+  },
+  {
+    id: 18,
+    imageUrl: bagl,
+    name: "Zouk ladies bag",
+    brand: "Zouk",
+    price: 1099,
+  },
+  {
+    id: 19,
+    imageUrl: bagm,
+    name: "Lino Perros ladies bag",
+    brand: "Lino Perros",
+    price: 1999,
+  },
+  {
+    id: 20,
+    imageUrl: bagn,
+    name: "Da Milano ladies bag",
+    brand: "Da Milano",
+    price: 2499,
+  },
+  {
+    id: 21,
+    imageUrl: bago,
+    name: "Burberry ladies bag",
+    brand: "Burberry",
+    price: 1999,
+  },
+  {
+    id: 22,
+    imageUrl: bagp,
+    name: "Chumbak Boho ladies bag",
+    brand: "Chumbak Boho",
+    price: 1299,
   },
 ];
 
@@ -183,23 +320,79 @@ const allProductlist = [
   {
     id: 14,
     imageUrl: bag22,
-    name: "Da Milano ladies bag",
+    name: "Hidesign ladies bag",
     brand: "Da Milano",
-    price: 2499,
+    price: 7499,
   },
   {
     id: 15,
     imageUrl: bag23,
     name: "Burberry ladies bag",
     brand: "Burberry",
-    price: 2299,
+    price: 8299,
   },
   {
     id: 16,
     imageUrl: bag24,
     name: "Chanel ladies bag",
     brand: "Chanel",
-    price: 3999,
+    price: 9999,
+  },
+  {
+    id: 17,
+    imageUrl: bagq,
+    name: "Baggit ladies bag",
+    brand: "Baggit",
+    price: 1899,
+  },
+  {
+    id: 18,
+    imageUrl: bagr,
+    name: "Caprese ladies bag",
+    brand: "Caprese",
+    price: 1999,
+  },
+  {
+    id: 19,
+    imageUrl: bags,
+    name: "Lavie ladies bag",
+    brand: "Lavie",
+    price: 1599,
+  },
+  {
+    id: 20,
+    imageUrl: bagt,
+    name: "Coach ladies bag",
+    brand: "Coach",
+    price: 23999,
+  },
+  {
+    id: 21,
+    imageUrl: bagu,
+    name: "Peperone ladies bag",
+    brand: "Peperone",
+    price: 19999,
+  },
+  {
+    id: 22,
+    imageUrl: bagv,
+    name: "Valentino ladies bag",
+    brand: "Valentino",
+    price: 20499,
+  },
+  {
+    id: 23,
+    imageUrl: bagw,
+    name: "Dior ladies bag",
+    brand: "Dior",
+    price: 24299,
+  },
+  {
+    id: 24,
+    imageUrl: bagx,
+    name: "Chloé ladies bag",
+    brand: "Chloé",
+    price: 17599,
   },
 
 ];
