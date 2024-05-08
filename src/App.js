@@ -197,9 +197,9 @@ const allProductlist = [
   {
     id: 16,
     imageUrl: bag24,
-    name: "Chumbak Boho ladies bag",
-    brand: "Chumbak Boho",
-    price: 1999,
+    name: "Chanel ladies bag",
+    brand: "Chanel",
+    price: 3999,
   },
 
 ];
