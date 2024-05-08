@@ -1,6 +1,8 @@
 import { Component } from "react";
 import Navbar from "./Components/navigation";
 import Banner from "./Components/banner";
+import Footer from "./Components/footer";
+import ProductItem from "./Components/deal-item";
 import "./App.css"
 import bag1 from "./Components/images/bag1.jpeg"
 import bag2 from "./Components/images/bag2.jpeg"
@@ -52,7 +54,6 @@ import bagw from "./Components/images/bagw.jpeg"
 import bagx from "./Components/images/bagx.jpeg"
 
 
-import ProductItem from "./Components/deal-item";
 
 const dealslist = [
   {
@@ -425,6 +426,7 @@ class App extends Component {
 
           </ul>
         </div>
+        <Footer />
       </div>
     );
   }
