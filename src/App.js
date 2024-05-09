@@ -61,168 +61,168 @@ const dealslist = [
     imageUrl: bag1,
     name: "Fastrack ladies bag",
     brand: "Fastrack",
-    price: 899,
+    price: "Rs: 899",
   },
   {
     id: 2,
     imageUrl: bag2,
     name: "Caprese ladies bag",
     brand: "Caprese",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 3,
     imageUrl: bag3,
     name: "Lavie ladies bag",
     brand: "Lavie",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 4,
     imageUrl: bag4,
     name: "Zouk ladies bag",
     brand: "Zouk",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 5,
     imageUrl: bag5,
     name: "Lino Perros ladies bag",
     brand: "Lino Perros",
-    price: 999,
+    price:"Rs: 999",
   },
   {
     id: 6,
     imageUrl: bag6,
     name: "Da Milano ladies bag",
     brand: "Da Milano",
-    price: 1499,
+    price: "Rs: 1499",
   },
   {
     id: 7,
     imageUrl: bag7,
     name: "Burberry ladies bag",
     brand: "Burberry",
-    price: 1299,
+    price: "Rs: 1299",
   },
   {
     id: 8,
     imageUrl: bag8,
     name: "Chumbak Boho ladies bag",
     brand: "Chumbak Boho",
-    price: 799,
+    price: "Rs: 799",
   },
   {
     id: 9,
     imageUrl: baga,
     name: "Fastrack ladies bag",
     brand: "Fastrack",
-    price: 899,
+    price: "Rs: 899",
   },
   {
     id: 10,
     imageUrl: bagb,
     name: "Caprese ladies bag",
     brand: "Caprese",
-    price: 1399,
+    price: "Rs: 1399",
   },
   {
     id: 11,
     imageUrl: bagc,
     name: "Lavie ladies bag",
     brand: "Lavie",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 12,
     imageUrl: bagd,
     name: "Zouk ladies bag",
     brand: "Zouk",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 13,
     imageUrl: bage,
     name: "Lino Perros ladies bag",
     brand: "Lino Perros",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 14,
     imageUrl: bagf,
     name: "Da Milano ladies bag",
     brand: "Da Milano",
-    price: 2499,
+    price: "Rs: 2499",
   },
   {
     id: 15,
     imageUrl: bagg,
     name: "Dior ladies bag",
     brand: "Dior",
-    price: 4999,
+    price: "Rs: 4999",
   },
   {
     id: 16,
     imageUrl: bagh,
     name: "Chumbak Boho ladies bag",
     brand: "Chumbak Boho",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 15,
     imageUrl: bagi,
     name: "Dior ladies bag",
     brand: "Dior",
-    price: 899,
+    price: "Rs: 899",
   },
   {
     id: 16,
     imageUrl: bagj,
     name: "Caprese ladies bag",
     brand: "Caprese",
-    price: 1299,
+    price: "Rs: 1299",
   },
   {
     id: 17,
     imageUrl: bagk,
     name: "Lavie ladies bag",
     brand: "Lavie",
-    price: 999,
+    price: "Rs: 999",
   },
   {
     id: 18,
     imageUrl: bagl,
     name: "Zouk ladies bag",
     brand: "Zouk",
-    price: 1099,
+    price: "Rs: 1099",
   },
   {
     id: 19,
     imageUrl: bagm,
     name: "Lino Perros ladies bag",
     brand: "Lino Perros",
-    price: 1999,
+    price: "Rs: 1999",
   },
   {
     id: 20,
     imageUrl: bagn,
     name: "Da Milano ladies bag",
     brand: "Da Milano",
-    price: 2499,
+    price: "Rs: 2499",
   },
   {
     id: 21,
     imageUrl: bago,
     name: "Burberry ladies bag",
     brand: "Burberry",
-    price: 1999,
+    price: "Rs: 1999",
   },
   {
     id: 22,
     imageUrl: bagp,
     name: "Chumbak Boho ladies bag",
     brand: "Chumbak Boho",
-    price: 1299,
+    price: "Rs:1299",
   },
 ];
 
@@ -232,186 +232,197 @@ const allProductlist = [
     imageUrl: bag9,
     name: "Valentino ladies bag",
     brand: "Valentino",
-    price: 9999,
+    price: "Rs: 9999",
   },
   {
     id: 2,
     imageUrl: bag10,
     name: "Fendi ladies bag",
     brand: "Fendi",
-    price: 8999,
+    price: "Rs: 8999",
   },
   {
     id: 3,
     imageUrl: bag11,
     name: "Esbeda ladies bag",
     brand: "Esbeda",
-    price: 10999,
+    price: "Rs: 10999",
   },
   {
     id: 4,
     imageUrl: bag12,
     name: "Hermès ladies bag",
     brand: "Hermès",
-    price: 7999,
+    price: "Rs: 7999",
   },
   {
     id: 5,
     imageUrl: bag13,
     name: "Gucci ladies bag",
     brand: "Gucci",
-    price: 10099,
+    price: "Rs: 10099",
   },
   {
     id: 6,
     imageUrl: bag14,
     name: "Prada ladies bag",
     brand: "Prada",
-    price: 2999,
+    price: "Rs: 2999",
   },
   {
     id: 7,
     imageUrl: bag15,
     name: "Hidesign ladies bag",
     brand: "Hidesign",
-    price: 3299,
+    price: "Rs: 3299",
   },
   {
     id: 8,
     imageUrl: bag16,
     name: "Chumbak Boho ladies bag",
     brand: "Chumbak Boho",
-    price: 1799,
+    price: "Rs: 1799",
   },
   {
     id: 9,
     imageUrl: bag17,
     name: "Fastrack ladies bag",
     brand: "Fastrack",
-    price: 1899,
+    price: "Rs: 1899",
   },
   {
     id: 10,
     imageUrl: bag18,
     name: "Caprese ladies bag",
     brand: "Caprese",
-    price: 2999,
+    price: "Rs: 2999",
   },
   {
     id: 11,
     imageUrl: bag19,
     name: "Lavie ladies bag",
     brand: "Lavie",
-    price: 1599,
+    price: "Rs: 1599",
   },
   {
     id: 12,
     imageUrl: bag20,
     name: "Zouk ladies bag",
     brand: "Zouk",
-    price: 1999,
+    price: "Rs: 1999",
   },
   {
     id: 13,
     imageUrl: bag21,
     name: "Lino Perros ladies bag",
     brand: "Lino Perros",
-    price: 1799,
+    price: "Rs: 1799",
   },
   {
     id: 14,
     imageUrl: bag22,
     name: "Hidesign ladies bag",
     brand: "Da Milano",
-    price: 7499,
+    price: "Rs:7499",
   },
   {
     id: 15,
     imageUrl: bag23,
     name: "Burberry ladies bag",
     brand: "Burberry",
-    price: 8299,
+    price: "Rs: 8299",
   },
   {
     id: 16,
     imageUrl: bag24,
     name: "Chanel ladies bag",
     brand: "Chanel",
-    price: 9999,
+    price: "Rs: 9999",
   },
   {
     id: 17,
     imageUrl: bagq,
     name: "Baggit ladies bag",
     brand: "Baggit",
-    price: 1899,
+    price: "Rs: 1899",
   },
   {
     id: 18,
     imageUrl: bagr,
     name: "Caprese ladies bag",
     brand: "Caprese",
-    price: 1999,
+    price: "Rs: 1999",
   },
   {
     id: 19,
     imageUrl: bags,
     name: "Lavie ladies bag",
     brand: "Lavie",
-    price: 1599,
+    price: "Rs: 1599",
   },
   {
     id: 20,
     imageUrl: bagt,
     name: "Coach ladies bag",
     brand: "Coach",
-    price: 23999,
+    price: "Rs: 3999",
   },
   {
     id: 21,
     imageUrl: bagu,
     name: "Peperone ladies bag",
     brand: "Peperone",
-    price: 19999,
+    price: "Rs: 19999",
   },
   {
     id: 22,
     imageUrl: bagv,
     name: "Valentino ladies bag",
     brand: "Valentino",
-    price: 20499,
+    price: "Rs: 20499",
   },
   {
     id: 23,
     imageUrl: bagw,
     name: "Dior ladies bag",
     brand: "Dior",
-    price: 24299,
+    price: "Rs: 24299",
   },
   {
     id: 24,
     imageUrl: bagx,
     name: "Chloé ladies bag",
     brand: "Chloé",
-    price: 17599,
+    price: "Rs: 17599",
   },
 
 ];
 
 
 class App extends Component {
+
+    state = {cartCount: 0};
+
+    onAddClicked = () => {
+      this.setState((prevState) => ({cartCount: prevState.cartCount + 1}));
+    };
+
+
   render() {
+     
+     const { cartCount } = this.state;
+
     return (
       <div>
         <div className="header">
-          <Navbar />
+          <Navbar count={cartCount}/>
           <Banner />
         </div>
         <div className="product-selection">
-         <h2 className="deal">Deals of the Day</h2>
+          <h2 className="deal">Deals of the Day</h2>
           <ul className="product-row-list">
             {dealslist.map((eachobj) => (
-              <ProductItem product={eachobj} key={eachobj.id} />
+              <ProductItem product={eachobj} key={eachobj.id} onAddClicked={this.onAddClicked} />
             ))}
           </ul>
         </div>
@@ -421,7 +432,8 @@ class App extends Component {
           <h2 className="deal">All Products</h2>
           <ul className="product-row-list">
             {allProductlist.map((eachobj) => (
-              <ProductItem product={eachobj} key={eachobj.id} />
+              <ProductItem product={eachobj} key={eachobj.id} 
+              onAddClicked={this.onAddClicked}/>
             ))}
 
           </ul>

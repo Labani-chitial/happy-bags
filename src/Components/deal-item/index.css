@@ -9,6 +9,11 @@
     transition: all 0.5s linear;
     border-radius: 8px;
 }
+.product-item:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+  }
 .add-cart-btn {
     
     display: inline-block;
@@ -19,6 +24,13 @@
     margin: 40px 0;
 
 }
+.add-cart-btn:active{
+    background-color: red;
+}
+/* .add-cart-btn:hover{
+    background-color: orange;
+} */
 .add-cart-container {
     text-align: center;
 }
+

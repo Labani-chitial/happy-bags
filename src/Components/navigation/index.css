@@ -23,7 +23,7 @@ nav{
    
 }
 .cart-menu-con {
-    background-color: darkorchid;
+    background-color: rgb(247, 21, 134);
     padding: 0px 8px;
     border-radius: 8px;
     color: aliceblue;
@@ -35,17 +35,24 @@ nav{
 }
 .bagname {
     letter-spacing: 7px;
-    color: rgb(109, 9, 241);
+    color: rgb(22, 2, 27);
     font-size: 50px;
-    text-shadow: 2px 2px 8px #af0492;
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px #ee1b1b;
 }
+.bagname:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+  }
 .nav-menu {
     list-style-type: none;
     display: flex;
     align-items: center;
     margin: 0px;
     padding: 0px;
-    color: rgb(138, 11, 223);
+    color: rgb(11, 3, 17);
     width: 20%;
     float: right;
     justify-content: space-around;
@@ -56,6 +63,6 @@ nav{
     font-weight: 10%;
 
 }
-.underline {
+/* .underline {
     color: rgb(240, 11, 182);
-}
+} */
