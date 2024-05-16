@@ -52,6 +52,7 @@ import bagu from "./Components/images/bagu.jpeg"
 import bagv from "./Components/images/bagv.jpeg"
 import bagw from "./Components/images/bagw.jpeg"
 import bagx from "./Components/images/bagx.jpeg"
+import ControlledCarousel from "./Components/carousel";
 
 
 
@@ -417,6 +418,7 @@ class App extends Component {
         <div className="header">
           <Navbar count={cartCount}/>
           <Banner />
+          < ControlledCarousel />
         </div>
         <div className="product-selection">
           <h2 className="deal">Deals of the Day</h2>
